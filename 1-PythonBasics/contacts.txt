@@ -1,0 +1,17 @@
+Name: John CarterAddress: 1205 Maple Ridge Dr, Austin, TX 78748Phone: 512-555-0198
+
+Name: Priya SharmaAddress: 4501 Sunset Canyon Rd, Austin, TX 78735Phone: 912-555-4421
+
+Name: Michael ThompsonAddress: 8920 Oak Haven Blvd, Austin, TX 78745Phone: 112-555-3377
+
+Name: Alekhya ReddyAddress: 300 Monterey Oaks Blvd, Austin, TX 78749Phone: 212.555.9082
+
+Name: Sarah WilliamsAddress: 2100 Barton Springs Rd, Austin, TX 78704Phone: 612-555-7712
+
+Name: David JohnsonAddress: 6700 Brodie Ln, Austin, TX 78745Phone: 512*555*6644
+
+Name: Monica PatelAddress: 9801 Slaughter Creek Dr, Austin, TX 78748Phone: 512/555/5529
+
+Name: Rachel GreenAddress: 5000 Escarpment Blvd, Austin, TX 78749Phone: 900-555-8834
+
+Name: Joey TribbianiAddress: 2400 Riverside Dr, Austin, TX 78741Phone: 800-555-1290

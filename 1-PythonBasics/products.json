@@ -1,0 +1,44 @@
+
+  [
+    {
+      "sku": "SKU1001",
+      "name": "Wireless Mouse",
+      "price": 19.99,
+      "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+      "in_stock": true,
+      "category": "Electronics"
+    },
+    {
+      "sku": "SKU1002",
+      "name": "Bluetooth Headphones",
+      "price": 49.99,
+      "description": "Noise‑isolating headphones with 20‑hour battery life.",
+      "in_stock": true,
+      "category": "Audio"
+    },
+    {
+      "sku": "SKU1003",
+      "name": "Stainless Steel Water Bottle",
+      "price": 14.50,
+      "description": "Insulated bottle that keeps drinks cold for 24 hours.",
+      "in_stock": false,
+      "category": "Home & Kitchen"
+    },
+    {
+      "sku": "SKU1004",
+      "name": "Yoga Mat",
+      "price": 25.00,
+      "description": "Non‑slip yoga mat with extra cushioning for comfort.",
+      "in_stock": true,
+      "category": "Fitness"
+    },
+    {
+      "sku": "SKU1005",
+      "name": "LED Desk Lamp",
+      "price": 32.75,
+      "description": "Adjustable LED lamp with touch controls and brightness modes.",
+      "in_stock": true,
+      "category": "Office Supplies"
+    }
+  ]
+

@@ -1,0 +1,7 @@
+1..
+
+Convert .py file to .ipynb file by placing the code in .py file in the meaningful way in the code cells of .ipynb file
+
+
+2..
+
